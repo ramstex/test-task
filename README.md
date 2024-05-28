@@ -1,4 +1,5 @@
 NodeJS v20.12.2
+
 npm v10.5.2
 
 Связка [webpack + svelte](https://dev.to/sam_621/svelte-with-webpack-5-and-babel-1b03)
